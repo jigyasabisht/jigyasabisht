@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/20/21/47/202147a8e6a40faef0c82c75f2547820.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQEE0SiAHaMqjQ/profile-displaybackgroundimage-shrink_200_800/0/1617170323754?e=1630540800&v=beta&t=B9-wgZ9qamFPGHZwK6Q08GWmZLRi7TJMtmKkYlMtMJc" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Jigyasa</h1>
 <h3 align="center">A programmer and Machine Learning enthusiast</h3>
 
