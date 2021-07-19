@@ -1,4 +1,3 @@
-![head](bottom_tail.svg)
 <h1 align="center">Hi 👋, I'm Jigyasa</h1>
 <h3 align="center">A programmer and Machine Learning enthusiast</h3>
 
