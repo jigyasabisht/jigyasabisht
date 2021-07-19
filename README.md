@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQEE0SiAHaMqjQ/profile-displaybackgroundimage-shrink_200_800/0/1617170323754?e=1630540800&v=beta&t=B9-wgZ9qamFPGHZwK6Q08GWmZLRi7TJMtmKkYlMtMJc" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Jigyasa</h1>
-<h3 align="center">A programmer and Machine Learning enthusiast</h3>
+<h3 align="center">A programmer and Machine Learning enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigyasabisht&label=Profile%20views&color=0e75b6&style=flat" alt="jigyasabisht" /> </p>
 
