@@ -14,6 +14,7 @@
 
 <h2 align="left">📫 Check out my Coding Skills</h2>  
 <a href="https://www.hackerrank.com/jigyasabisht0789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jigyasabisht0789" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jigyasabisht0789/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jigyasabisht0789" height="30" width="40" /></a>
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jigyasa-bisht-99a6541b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
