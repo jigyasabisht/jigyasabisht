@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jigyasa</h1>
-<h3 align="center">A programmer and Machine Learning enthusiast</h3>
+<h3 align="center">Software Developer Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigyasabisht&label=Profile%20views&color=0e75b6&style=flat" alt="jigyasabisht" /> </p>
 
